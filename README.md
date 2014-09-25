@@ -3,6 +3,14 @@ sh.ease
 [Robert Penner's wonderful easing equations](http://robertpenner.com/easing/) for usage in the [bash](http://www.gnu.org/software/bash/)
 
 
+
+## Examples
+Check the **examples** directory in this repository.
+
+- shellplot.sh
+- svgplot.sh
+
+
 ## Usage
 ```bash
 #!/bin/bash
@@ -26,13 +34,6 @@ do
 done
 ...
 ```
-
-
-## Examples
-Check the **examples** directory in this repository.
-
-- shellplot.sh
-- svgplot.sh
 
 
 ## Prerequisites
