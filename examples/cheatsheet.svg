@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" width="595px" height="1500px">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="595px" height="1500px" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs><style type="text/css"><![CDATA[text {font-family:Helvetica,Arial,Verdana,sans-serif;font-size:9px;}]]></style></defs>
 <text x="18" y="36" style="font-size:40px; font-weight:bold;">sh.ease</text>
 <text x="180" y="36" style="font-size:12px; font-weight:bold;">CHEAT SHEET</text>
