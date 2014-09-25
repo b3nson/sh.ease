@@ -13,8 +13,16 @@ source easing.sh
 quad_easeIn $time $begin $change $duration
 quad_easeOut $time $begin $change $duration
 
-VAR=`quad_easeOut $time 0 100 100`
 
+#to ease the x-value of something,    
+#to make it move from x=50 to x= 250 in 100 steps    
+#you would write something like:    
+
+for i in {0..100}
+do
+  x=`circ_easeOut $i 50 200 100`
+  #draw
+done
 ...
 ```
 
