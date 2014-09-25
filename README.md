@@ -3,11 +3,6 @@ sh.ease
 [Robert Penner's wonderful easing equations](http://robertpenner.com/easing/) for usage in the [bash](http://www.gnu.org/software/bash/)
 
 
-sh.ease is a port of Robert Penner's easing equations for the bash.
-
-[Robert Penner's classic easing equations for ActionScript](http://robertpenner.com/easing/)
-
-
 ## Usage
 ```bash
 #!/bin/bash
@@ -25,6 +20,10 @@ VAR=`quad_easeOut $time 0 100 100`
 
 
 ## Examples
+Check the **examples** directory in this repository.
+
+- shellplot.sh
+- svgplot.sh
 
 
 ## Prerequisites
@@ -35,5 +34,4 @@ tested on GNU/Linux (Ubuntu/Debian) and OS X 10.x
 
 
 ##Reference
-
 http://www.robertpenner.com/easing/
