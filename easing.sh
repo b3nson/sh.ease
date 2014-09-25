@@ -1,8 +1,30 @@
 #!/bin/bash
 
+#.-------------------------------------------------------------------------.#
+#. easing.sh                                                                #
+#.                                                                          #
+#. Copyright (C) 2014 LAFKON/Benjamin Stephan                               #
+#.                                                                          #
+#.                                                                          #
+#. easing.sh is free software: you can redistribute it and/or modify        #
+#. it under the terms of the GNU General Public License as published by     #
+#. the Free Software Foundation, either version 3 of the License, or        #
+#. (at your option) any later version.                                      #
+#.                                                                          #
+#. easing.sh is distributed in the hope that it will be useful,             #
+#. but WITHOUT ANY WARRANTY; without even the implied warranty of           #
+#. MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.                     #
+#. See the GNU General Public License for more details.                     #
+#.                                                                          #
+#.-------------------------------------------------------------------------.#
+
+
 PI=3.141592654
 OVERSHOOT=1.70158
+OPT="scale=20;"
 
+
+#assign function parameters to "readable" var-names
 function assignvars {
 	t=$1
 	b=$2
