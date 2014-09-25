@@ -1,6 +1,6 @@
 sh.ease
 =======
-[Robert Penner's wonderful easing equations](http://robertpenner.com/easing/) for usage in the [bash](http://www.gnu.org/software/bash/)
+**[Robert Penner's wonderful easing equations](http://robertpenner.com/easing/) for  [bash](http://www.gnu.org/software/bash/)**
 
 
 
