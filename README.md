@@ -43,6 +43,8 @@ Nothing any unix-like system (UNIX / GNU/Linux / OS X) shouldn't come with
 
 Explicitly tested on GNU/Linux (Ubuntu 14.04 LTS/Debian 7.4) and OS X (10.5.8/10.7.2)
 
+## License
+[GNU General Public License v3](http://www.gnu.org/licenses/gpl-3.0.txt)
 
 ##Reference
 http://www.robertpenner.com/easing/
