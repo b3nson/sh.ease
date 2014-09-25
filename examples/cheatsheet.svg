@@ -1,0 +1,90 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" width="595px" height="1500px">
+<defs><style type="text/css"><![CDATA[text {font-family:Helvetica,Arial,Verdana,sans-serif;font-size:9px;}]]></style></defs>
+<text x="18" y="36" style="font-size:40px; font-weight:bold;">sh.ease</text>
+<text x="180" y="36" style="font-size:12px; font-weight:bold;">CHEAT SHEET</text>
+<g id="graphs" transform="translate(297, 750) scale( .9 ) translate(-297, -750)">
+<g id="quad_easeIn" transform="translate( 0, 0 )">
+<text x="0" y="-3">quad_easeIn</text>
+<rect x="0" y="0" width="197" height="120" fill="#eee" opacity=".7" stroke="none" />
+<path style="fill:none;stroke:#0088ff;stroke-width:1px; 	 stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 
+0 120.00 4 119.95 8 119.80 12 119.55 16 119.21 20 118.76 24 118.22 28 117.58 32 116.83 36 115.99 40 115.05 44 114.01 48 112.88 52 111.64 56 110.30 60 108.87 64 107.33 68 105.70 72 103.97 76 102.14 80 
+100.21 84 98.18 88 96.06 92 93.83 96 91.50 100 89.08 104 86.56 108 83.93 112 81.21 116 78.39 120 75.47 124 72.46 128 69.34 132 66.12 136 62.81 140 59.40 144 55.88 148 52.27 152 48.56 156 44.75 160 
+40.84 164 36.84 168 32.73 172 28.52 176 24.22 180 19.82 184 15.32 188 10.71 192 6.01 196 1.22
+"/>
+</g>
+<g id="quad_easeOut" transform="translate( 198, 0 )">
+<text x="0" y="-3">quad_easeOut</text>
+<rect x="0" y="0" width="197" height="120" fill="#eee" opacity=".7" stroke="none" />
+<path style="fill:none;stroke:#0088ff;stroke-width:1px; 	 stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 
+0 120.00 4 115.18 8 110.45 12 105.83 16 101.30 20 96.87 24 92.54 28 88.31 32 84.18 36 80.15 40 76.22 44 72.38 48 68.65 52 65.01 56 61.47 60 58.03 64 54.70 68 51.46 72 48.31 76 45.27 80 42.33 84 39.48 
+88 36.74 92 34.09 96 31.54 100 29.09 104 26.74 108 24.49 112 22.34 116 20.29 120 18.33 124 16.48 128 14.72 132 13.06 136 11.51 140 10.05 144 8.69 148 7.42 152 6.26 156 5.20 160 4.23 164 3.37 168 2.60 
+172 1.93 176 1.36 180 0.89 184 0.52 188 0.25 192 0.08 196 0.00
+"/>
+</g>
+<g id="quad_easeInOut" transform="translate( 396, 0 )">
+<text x="0" y="-3">quad_easeInOut</text>
+<rect x="0" y="0" width="197" height="120" fill="#eee" opacity=".7" stroke="none" />
+<path style="fill:none;stroke:#0088ff;stroke-width:1px; 	 stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 
+0 120.00 4 119.90 8 119.60 12 119.11 16 118.42 20 117.53 24 116.44 28 115.15 32 113.67 36 111.99 40 110.11 44 108.03 48 105.75 52 103.28 56 100.61 60 97.74 64 94.67 68 91.40 72 87.94 76 84.28 80 
+80.42 84 76.36 88 72.11 92 67.66 96 63.01 100 58.19 104 53.49 108 48.98 112 44.68 116 40.57 120 36.67 124 32.96 128 29.44 132 26.13 136 23.01 140 20.09 144 17.37 148 14.85 152 12.52 156 10.40 160 
+8.47 164 6.73 168 5.20 172 3.87 176 2.73 180 1.79 184 1.05 188 0.50 192 0.15 196 0.01
+"/>
+</g>
+<g id="quint_easeIn" transform="translate( 0, 136 )">
+<text x="0" y="-3">quint_easeIn</text>
+<rect x="0" y="0" width="197" height="120" fill="#eee" opacity=".7" stroke="none" />
+<path style="fill:none;stroke:#0088ff;stroke-width:1px; 	 stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 
+0 120.00 4 120.00 8 120.00 12 120.00 16 120.00 20 120.00 24 120.00 28 119.99 32 119.99 36 119.98 40 119.96 44 119.93 48 119.90 52 119.85 56 119.78 60 119.69 64 119.57 68 119.41 72 119.22 76 118.97 80 
+118.67 84 118.31 88 117.87 92 117.33 96 116.70 100 115.96 104 115.08 108 114.06 112 112.87 116 111.51 120 109.94 124 108.14 128 106.10 132 103.79 136 101.18 140 98.25 144 94.96 148 91.28 152 87.19 
+156 82.63 160 77.59 164 72.02 168 65.88 172 59.12 176 51.70 180 43.58 184 34.70 188 25.02 192 14.47 196 3.01
+"/>
+</g>
+<g id="quint_easeOut" transform="translate( 198, 136 )">
+<text x="0" y="-3">quint_easeOut</text>
+<rect x="0" y="0" width="197" height="120" fill="#eee" opacity=".7" stroke="none" />
+<path style="fill:none;stroke:#0088ff;stroke-width:1px; 	 stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 
+0 120.00 4 108.30 8 97.53 12 87.64 16 78.57 20 70.26 24 62.67 28 55.75 32 49.46 36 43.75 40 38.58 44 33.91 48 29.70 52 25.92 56 22.54 60 19.52 64 16.83 68 14.45 72 12.34 76 10.49 80 8.87 84 7.45 88 
+6.22 92 5.16 96 4.25 100 3.47 104 2.81 108 2.26 112 1.79 116 1.41 120 1.09 124 0.84 128 0.63 132 0.47 136 0.34 140 0.24 144 0.17 148 0.11 152 0.07 156 0.05 160 0.03 164 0.02 168 0.01 172 0.00 176 
+0.00 180 0.00 184 0.00 188 0.00 192 0.00 196 0.00
+"/>
+</g>
+<g id="quint_easeInOut" transform="translate( 396, 136 )">
+<text x="0" y="-3">quint_easeInOut</text>
+<rect x="0" y="0" width="197" height="120" fill="#eee" opacity=".7" stroke="none" />
+<path style="fill:none;stroke:#0088ff;stroke-width:1px; 	 stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 
+0 120.00 4 120.00 8 120.00 12 119.99 16 119.96 20 119.90 24 119.79 28 119.61 32 119.33 36 118.93 40 118.37 44 117.61 48 116.62 52 115.34 56 113.73 60 111.74 64 109.31 68 106.37 72 102.87 76 98.74 80 
+93.89 84 88.27 88 81.78 92 74.34 96 65.86 100 56.43 104 47.68 108 39.99 112 33.27 116 27.44 120 22.41 124 18.10 128 14.45 132 11.38 136 8.83 140 6.73 144 5.03 148 3.67 152 2.61 156 1.80 160 1.19 164 
+0.76 168 0.45 172 0.25 176 0.12 180 0.05 184 0.02 188 0.00 192 0.00 196 0.00
+"/>
+</g>
+<g id="bounce_easeIn" transform="translate( 0, 272 )">
+<text x="0" y="-3">bounce_easeIn</text>
+<rect x="0" y="0" width="197" height="120" fill="#eee" opacity=".7" stroke="none" />
+<path style="fill:none;stroke:#0088ff;stroke-width:1px; 	 stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 
+0 120.00 4 118.70 8 118.15 12 118.34 16 119.29 20 118.35 24 115.77 28 113.93 32 112.84 36 112.50 40 112.91 44 114.07 48 115.97 52 118.62 56 116.31 60 110.41 64 105.26 68 100.85 72 97.20 76 94.29 80 
+92.13 84 90.72 88 90.06 92 90.14 96 90.97 100 92.56 104 94.89 108 97.96 112 101.79 116 106.36 120 111.69 124 117.76 128 111.33 132 98.80 136 87.01 140 75.97 144 65.68 148 56.14 152 47.35 156 39.31 
+160 32.01 164 25.46 168 19.67 172 14.61 176 10.31 180 6.76 184 3.95 188 1.89 192 0.58 196 0.02
+"/>
+</g>
+<g id="bounce_easeOut" transform="translate( 198, 272 )">
+<text x="0" y="-3">bounce_easeOut</text>
+<rect x="0" y="0" width="197" height="120" fill="#eee" opacity=".7" stroke="none" />
+<path style="fill:none;stroke:#0088ff;stroke-width:1px; 	 stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 
+0 120.00 4 119.63 8 118.50 12 116.63 16 114.01 20 110.65 24 106.53 28 101.67 32 96.06 36 89.69 40 82.59 44 74.73 48 66.12 52 56.77 56 46.67 60 35.82 64 24.22 68 11.87 72 0.61 76 6.86 80 12.37 84 
+17.14 88 21.15 92 24.41 96 26.93 100 28.70 104 29.72 108 29.99 112 29.52 116 28.29 120 26.32 124 23.60 128 20.13 132 15.91 136 10.95 140 5.23 144 0.60 148 3.44 152 5.53 156 6.87 160 7.47 164 7.31 168 
+6.41 172 4.76 176 2.37 180 0.36 184 1.49 188 1.87 192 1.51 196 0.40
+"/>
+</g>
+<g id="bounce_easeInOut" transform="translate( 396, 272 )">
+<text x="0" y="-3">bounce_easeInOut</text>
+<rect x="0" y="0" width="197" height="120" fill="#eee" opacity=".7" stroke="none" />
+<path style="fill:none;stroke:#0088ff;stroke-width:1px; 	 stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 
+0 120.00 4 119.07 8 119.64 12 117.88 16 116.42 20 116.45 24 117.99 28 118.16 32 112.63 36 108.60 40 106.07 44 105.03 48 105.49 52 107.44 56 110.90 60 115.84 64 115.67 68 103.51 72 92.84 76 83.68 80 
+76.01 84 69.83 88 65.16 92 61.98 96 60.29 100 59.89 104 58.59 108 55.78 112 51.48 116 45.68 120 38.38 124 29.59 128 19.30 132 7.52 136 2.68 140 8.01 144 11.83 148 14.16 152 15.00 156 14.33 160 12.17 
+164 8.52 168 3.37 172 1.40 176 3.30 180 3.71 184 2.62 188 0.04 192 0.92 196 0.37
+"/>
+</g>
+</g>
+</svg>
