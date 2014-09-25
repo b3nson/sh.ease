@@ -12,7 +12,8 @@ source easing.sh
 
 quad_easeIn $time $begin $change $duration
 quad_easeOut $time $begin $change $duration
-
+quad_easeInOut $time $begin $change $duration
+...
 
 #to ease the x-value of something,    
 #to make it move from x=50 to x= 250 in 100 steps    
@@ -35,10 +36,11 @@ Check the **examples** directory in this repository.
 
 
 ## Prerequisites
-[bash](http://www.gnu.org/software/bash/)    
-[bc](http://en.wikipedia.org/wiki/Bc_(programming_language))    
+Nothing any unix-like system (UNIX / GNU/Linux / OS X) shouldn't come with    
+- [bash](http://www.gnu.org/software/bash/)    
+- [bc](http://en.wikipedia.org/wiki/Bc_(programming_language))    
 
-tested on GNU/Linux (Ubuntu/Debian) and OS X 10.x
+Explicitly tested on GNU/Linux (Ubuntu 14.04 LTS/Debian 7.4) and OS X (10.5.8/10.7.2)
 
 
 ##Reference
