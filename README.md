@@ -36,4 +36,6 @@ tested on GNU/Linux (Ubuntu/Debian) and OS X 10.x
 ##Reference
 http://www.robertpenner.com/easing/
 
-![CheatSheet](/examples/cheatsheet.svg?raw=true)
+![CheatSheet](https://rawgit.com/b3nson/sh.ease/master/examples/cheatsheet.svg)
+
+<img src="https://rawgit.com/b3nson/sh.ease/master/examples/cheatsheet.svg">
