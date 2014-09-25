@@ -35,3 +35,5 @@ tested on GNU/Linux (Ubuntu/Debian) and OS X 10.x
 
 ##Reference
 http://www.robertpenner.com/easing/
+
+![CheatSheet](http://raw.githubusercontent.com/b3nson/sh.ease/master/examples/cheatsheet.svg)
