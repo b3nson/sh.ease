@@ -8,7 +8,7 @@ sh.ease
 Check the **examples** directory in this repository.
 
 - `svgCheatSheet.sh` - script to generate a cheatsheet as svg (see below)
-- `shellplot.sh` - 
+- `ascii-graphs.sh` - script to plot character-based easing-graphs to terminal
 
 
 ## Usage
