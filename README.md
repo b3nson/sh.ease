@@ -7,8 +7,8 @@ sh.ease
 ## Examples
 Check the **examples** directory in this repository.
 
+- **svgCheatSheet.sh** script to generate the cheatsheet as svg
 - shellplot.sh
-- svgplot.sh
 
 
 ## Usage
