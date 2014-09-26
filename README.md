@@ -41,12 +41,12 @@ Nothing any unix-like system (UNIX / GNU/Linux / OS X) shouldn't come with
 - `bash` - http://www.gnu.org/software/bash/
 - `bc` - http://en.wikipedia.org/wiki/Bc_(programming_language)
 
-Explicitly tested on GNU/Linux (Ubuntu 14.04 LTS/Debian 7.4) and OS X (10.5.8/10.7.2)
+Explicitly tested on GNU/Linux (Ubuntu 14.04 LTS/Debian 7.4) and OS X (10.6.2/10.8.5)
 
 ## License
 [GNU General Public License v3](http://www.gnu.org/licenses/gpl-3.0.txt)
 
 ##Reference
-http://www.robertpenner.com/easing/
+[Robert Penner's Easing Functions](http://www.robertpenner.com/easing/)
 
 ![CheatSheet](https://rawgit.com/b3nson/sh.ease/master/examples/cheatsheet.svg)
