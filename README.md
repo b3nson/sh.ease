@@ -7,8 +7,8 @@ sh.ease
 ## Examples
 Check the **examples** directory in this repository.
 
-- **svgCheatSheet.sh** script to generate the cheatsheet as svg
-- shellplot.sh
+- `svgCheatSheet.sh` - script to generate a cheatsheet as svg (see below)
+- `shellplot.sh` - 
 
 
 ## Usage
@@ -38,8 +38,8 @@ done
 
 ## Prerequisites
 Nothing any unix-like system (UNIX / GNU/Linux / OS X) shouldn't come with    
-- [bash](http://www.gnu.org/software/bash/)    
-- [bc](http://en.wikipedia.org/wiki/Bc_(programming_language))    
+- `bash` - http://www.gnu.org/software/bash/
+- `bc` - http://en.wikipedia.org/wiki/Bc_(programming_language)
 
 Explicitly tested on GNU/Linux (Ubuntu 14.04 LTS/Debian 7.4) and OS X (10.5.8/10.7.2)
 
