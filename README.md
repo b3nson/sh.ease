@@ -46,7 +46,7 @@ Explicitly tested on GNU/Linux (Ubuntu 14.04 LTS/Debian 7.4) and OS X (10.6.2/10
 ## License
 [GNU General Public License v3](http://www.gnu.org/licenses/gpl-3.0.txt)
 
-##Reference
+## Reference
 ![CheatSheet](https://rawgit.com/b3nson/sh.ease/master/examples/cheatsheet.svg)
 
 [Robert Penner's Easing Functions](http://www.robertpenner.com/easing/)
